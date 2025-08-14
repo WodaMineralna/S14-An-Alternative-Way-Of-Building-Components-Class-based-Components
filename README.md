@@ -5,8 +5,9 @@ Practice code for Section 14 - An Alternative Way of Building Components - Class
 This project covers
 - Class components in modern React
 - Lifecycle methods and comparison to hooks
-Project type
-- Based on a guided project
+  
+# Project type
+Implemented as part of a guided course project, with additional features and customizations added independently.
 
 ## Tech Stack
 - React
